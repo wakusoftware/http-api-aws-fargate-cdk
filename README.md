@@ -49,7 +49,7 @@ sudo yum install jq -y
 
 Open a new terminal inside AWS Cloud9 IDE and run:
 
-git clone https://github.com/aws-samples/http-api-aws-fargate-cdk.git
+git clone https://github.com/wakusoftware/http-api-aws-fargate-cdk.git
 
 ### Build and test book-service locally
 
